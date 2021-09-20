@@ -21,11 +21,3 @@ Visit Website:
 ```url
 http://localhost:3000
 ```
-
-## Reflection
-
-This project is made during HackMol2.0 Hackathon organized by DSC NITJ.
-
-We faced many problems like linking all models between students and staff and making it easy to understand and to grant permission. It was very difficult to manage this much data and to connect and interlink every piece of information with each other. Time management was also a big deal for us.
-
-Technologies used: HTML, CSS, Bootstrap, Node.js, JavaScript, Express.js, MongoDB​
